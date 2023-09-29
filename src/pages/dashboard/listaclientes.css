@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 425px) and (max-width: 767px){
+
+
+#aga1clientes     {
+    background-color: white;
+    color: blueviolet;
+    width: 70%;
+    margin: auto;
+    border-radius: 6px;
+}   
+#principalclientes{
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.507);
+}
+#cxdados{
+    background-color: white;
+    width: 70%;
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border:solid rgba(0, 0, 0, 0.562) 5px;
+}
+
+
+
+}

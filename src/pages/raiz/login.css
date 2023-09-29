@@ -1,0 +1,13 @@
+
+
+.pessoa_fisica{
+    background-color: azure;
+    text-align: center;
+}
+#formulariopfisica{
+    margin-top: 20px;
+}
+#formulariopfisica input{
+    border-radius: 3px;
+    height: 20px;
+}
